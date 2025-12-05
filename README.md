@@ -1,10 +1,10 @@
-🛒 ShopEase — Smart E-Commerce Platform
+🛒 **ShopEase** — Smart E-Commerce Platform
 
 **Next-Gen AI-Powered Shopping Experience Built with React**
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **ShopEase** is a modern, scalable, feature-rich e-commerce platform built using **React.js**, real-time communication, AI-powered personalization, and secure multi-payment workflows.
 
@@ -12,7 +12,7 @@ This project demonstrates real-world front-end engineering patterns along with C
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### ⚡ Real-Time & Automation
 
@@ -20,13 +20,13 @@ This project demonstrates real-world front-end engineering patterns along with C
 * Admin dashboard with real-time analytics
 * CI/CD pipeline using **GitHub Actions**
 
-### 💳 Payments & Checkout
+### Payments & Checkout
 
 * PayPal, Razorpay, and UPI support
 * Secure OAuth login
 * Smart cart + discount logic
 
-### 📱 UI/UX
+### UI/UX
 
 * Responsive mobile-first design
 * Modular React architecture
@@ -34,7 +34,7 @@ This project demonstrates real-world front-end engineering patterns along with C
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category         | Technologies                        |
 | ---------------- | ----------------------------------- |
