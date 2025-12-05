@@ -14,12 +14,6 @@ This project demonstrates real-world front-end engineering patterns along with C
 
 ## ✨ Key Features
 
-### 🧠 AI & Search
-
-* AI-based product recommendations
-* Voice & Image search
-* Personalized shopping experience
-
 ### ⚡ Real-Time & Automation
 
 * Live order tracking through **Socket.IO**
